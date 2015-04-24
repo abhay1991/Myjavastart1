@@ -1,4 +1,4 @@
-   public class FirstDemo {
+   class FirstDemo {
     	
     	public static void main (String args[]){
     		First myobj1 =new First(20,13,20);
@@ -14,3 +14,4 @@
     	}
     }
  
+   

@@ -1,9 +1,10 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 class First {
    
 	double width;
 	double height;
 	double depth;
+	//public First(){}
 	
 	First (double w,double h,double d){
 		//System.out.println("Constructing First class");
